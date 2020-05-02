@@ -1,0 +1,2 @@
+# neural-machine-translation
+ Machine Translation is performed from German to English using the IWSLT 2016 DE-EN dataset. Machine translation has numerous practical applications in the areas of movie subtitle generation, live speech translation, assistance to human translators. This project trains an MT model using adversarial training, wherein our Generator and Discriminator are both self-attention based networks.
